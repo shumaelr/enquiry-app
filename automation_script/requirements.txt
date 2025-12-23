@@ -1,0 +1,6 @@
+anthropic
+watchdog
+python-docx
+pypdf
+openpyxl
+python-dotenv

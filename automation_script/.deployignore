@@ -1,0 +1,12 @@
+.env
+*.pyc
+__pycache__/
+*.xlsx
+!*_Format.xlsx
+*.pdf
+!*Format*.pdf
+.DS_Store
+*.log
+venv/
+.vscode/
+.idea/
