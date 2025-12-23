@@ -2,7 +2,8 @@
   "$schema": "https://railway.app/railway.schema.json",
   "build": {
     "builder": "DOCKERFILE",
-    "dockerfilePath": "automation_script/Dockerfile"
+    "dockerfilePath": "automation_script/Dockerfile",
+    "dockerfileContext": "automation_script"
   },
   "deploy": {
     "startCommand": "python web_viewer.py",
