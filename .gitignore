@@ -26,6 +26,10 @@ build/
 # Logs
 *.log
 
+# Node
+node_modules/
+package-lock.json
+
 # Temp files
 *.tmp
 deploy.zip
